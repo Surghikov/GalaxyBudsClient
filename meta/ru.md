@@ -14,8 +14,8 @@ This file is auto-generated and automatically updated. Do not modify this file m
 <tr><td><code>both</code></td><td>Оба</td></tr>
 <tr><td><code>next</code></td><td>Следующий</td></tr>
 <tr><td><code>prev</code></td><td>Предыдущий</td></tr>
-<tr><td><code>off</code></td><td>Выключено</td></tr>
-<tr><td><code>on</code></td><td>Включено</td></tr>
+<tr><td><code>off</code></td><td>Выкл</td></tr>
+<tr><td><code>on</code></td><td>Вкл</td></tr>
 <tr><td><code>hint</code></td><td>Подсказка</td></tr>
 <tr><td><code>help</code></td><td>Помощь</td></tr>
 <tr><td><code>important</code></td><td>Важно</td></tr>
@@ -189,13 +189,13 @@ This file is auto-generated and automatically updated. Do not modify this file m
 <tr><td><code>settings_dyn_tray_mode_battery_min</code></td><td>Показывать минимальный уровень заряда аккумулятора</td></tr>
 <tr><td><code>settings_dyn_tray_mode_battery_avg</code></td><td>Показывать средний уровень заряда аккумулятора</td></tr>
 <tr><td><code>settings_devmode_description</code></td><td>Инспектор трафика Bluetooth и другие инструменты разработчика.</td></tr>
-<tr><td><code>settings_crowdsourcing</code></td><td>Краудсорсинг</td></tr>
+<tr><td><code>settings_crowdsourcing</code></td><td>Сбор информации</td></tr>
 <tr><td><code>settings_cpopup_position_description</code></td><td>Выберите положение всплывающего окна подключения.</td></tr>
-<tr><td><code>settings_crowd_header</code></td><td>Краудсорсинг</td></tr>
-<tr><td><code>settings_crowd_allow</code></td><td>Разрешить участие в краудсорсинге</td></tr>
+<tr><td><code>settings_crowd_header</code></td><td>Сбор информации</td></tr>
+<tr><td><code>settings_crowd_allow</code></td><td>Разрешить участие в сборе информации</td></tr>
 <tr><td><code>settings_crowd_allow_description</code></td><td>Разрешите собирать информацию о фирменной структуре протокола Bluetooth от Samsung и отправлять данные по запросу. Это позволяет мне поддерживать все доступные модели Galaxy Buds гораздо проще, не владея ими.</td></tr>
 <tr><td><code>settings_crowd_crashreport</code></td><td>Разрешить отчеты о сбоях приложения</td></tr>
-<tr><td><code>settings_crowd_crashreport_description</code></td><td>Автоматически отправлять отчеты о сбоях приложений в случае сбоев или фатальных ошибок с помощью Sentry. Это помогает мне быстрее реагировать на проблемные и разрушительные ошибки приложения.</td></tr>
+<tr><td><code>settings_crowd_crashreport_description</code></td><td>Автоматически отправлять отчеты о работе приложения в случае сбоев или фатальных ошибок с помощью Sentry. Это помогает мне быстрее реагировать на проблемные и разрушительные ошибки приложения.</td></tr>
 <tr><td><code>factory_confirmation</code></td><td>Вы уверены, что хотите сбросить настройки наушников до заводских?
 Это приведет к удалению всех данных и настроек с наушников.
 
